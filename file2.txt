@@ -1,1 +1,2 @@
 baris ke 1 file 2
+tambah baris ke 2 di remote di file 2
